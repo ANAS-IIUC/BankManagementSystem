@@ -1,0 +1,10 @@
+name = "Anas"
+age = 20
+gpa = 3.90
+
+
+print("Student Information")
+print("--------------------")
+print("Name : "+name )
+print("Age : "+age)
+print("GPA : "+gpa)
